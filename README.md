@@ -1,6 +1,6 @@
 # Python Basics for Beginners
 
-Welcome to the official repository for the Python course! This course is designed for beginners with no prior programming experience.
+Welcome to the repository for the Python course! This course is designed for beginners with no prior programming experience.
 
 ## Real-World Examples of Python Basics
 
@@ -36,11 +36,3 @@ Here are some helpful resources to support your learning journey:
 ### Community and Support
 - [Python Discord Community](https://pythondiscord.com/)
 - [Stack Overflow Python Questions](https://stackoverflow.com/questions/tagged/python)
-
-## Contribution
-
-Feel free to contribute to this repository by adding new examples, fixing issues, or improving documentation. Create a pull request, and let’s improve this together!
-
----
-
-Start learning Python today! Visit [this repository](https://github.com/michal2210/python) for more details and resources.
